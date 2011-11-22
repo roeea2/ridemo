@@ -8,6 +8,7 @@ gem 'rails', '3.1.1'
 gem 'sqlite3'
 gem 'mysql2'
 gem 'dm-mysql-adapter'
+gem 'rake', '0.9.2.2'
 
 
 # Gems used only for assets and not required
