@@ -1,0 +1,13 @@
+1321967371
+Application	C:/Sites/ridemo/config/application.rb	  class Application 
+ApplicationController	C:/Sites/ridemo/app/controllers/application_controller.rb	class ApplicationController 
+ApplicationHelper	C:/Sites/ridemo/app/helpers/application_helper.rb	module ApplicationHelper
+BrowsingTest	C:/Sites/ridemo/test/performance/browsing_test.rb	class BrowsingTest 
+MessageController	C:/Sites/ridemo/app/controllers/message_controller.rb	class MessageController 
+MessageControllerTest	C:/Sites/ridemo/test/functional/message_controller_test.rb	class MessageControllerTest 
+MessageHelper	C:/Sites/ridemo/app/helpers/message_helper.rb	module MessageHelper
+MessageHelperTest	C:/Sites/ridemo/test/unit/helpers/message_helper_test.rb	class MessageHelperTest 
+Ridemo	C:/Sites/ridemo/config/application.rb	module Ridemo
+TestCase	C:/Sites/ridemo/test/test_helper.rb	class ActiveSupport::TestCase
+index	C:/Sites/ridemo/app/controllers/message_controller.rb	  def index
+test_homepage	C:/Sites/ridemo/test/performance/browsing_test.rb	  def test_homepage
